@@ -1,0 +1,11 @@
+
+
+
+
+
+==> Below link provides detail information about "Azure Paired Region" <==
+	    
+             ==============================================
+	     ==============================================
+
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/best-practices-availability-paired-regions.md
